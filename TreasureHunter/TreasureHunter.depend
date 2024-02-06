@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1685576029 source:c:\users\filip\desktop\treasurehunter\main.cpp
+	"game.hpp"
+
+1685578321 c:\users\filip\desktop\treasurehunter\game.hpp
+	"playerShip.hpp"
+	"enemyShip.hpp"
+	"treasure.hpp"
+	"obstacle.hpp"
+
+1685577901 c:\users\filip\desktop\treasurehunter\playership.hpp
+	"ship.hpp"
+
+1685577974 c:\users\filip\desktop\treasurehunter\ship.hpp
+	<iostream>
+	<vector>
+	<ctime>
+	<fstream>
+
+1685577467 c:\users\filip\desktop\treasurehunter\enemyship.hpp
+	"ship.hpp"
+
+1685621021 c:\users\filip\desktop\treasurehunter\treasure.hpp
+
+1685572650 c:\users\filip\desktop\treasurehunter\obstacle.hpp
+
+1685576029 source:c:\users\filip\desktop\programovanie\treasurehunter\main.cpp
+	"game.hpp"
+
+1685789951 c:\users\filip\desktop\programovanie\treasurehunter\game.hpp
+	"playerShip.hpp"
+	"enemyShip.hpp"
+	"treasure.hpp"
+	"obstacle.hpp"
+
+1686035223 c:\users\filip\desktop\programovanie\treasurehunter\playership.hpp
+	"ship.hpp"
+
+1686034466 c:\users\filip\desktop\programovanie\treasurehunter\ship.hpp
+	<iostream>
+	<vector>
+	<ctime>
+	<fstream>
+
+1685577467 c:\users\filip\desktop\programovanie\treasurehunter\enemyship.hpp
+	"ship.hpp"
+
+1686035329 c:\users\filip\desktop\programovanie\treasurehunter\treasure.hpp
+
+1686035339 c:\users\filip\desktop\programovanie\treasurehunter\obstacle.hpp
+
+1685572429 source:d:\Škola\programovanie\treasurehunter\main.cpp
+	"game.hpp"
+
+1685786351 d:\Škola\programovanie\treasurehunter\game.hpp
+	"playerShip.hpp"
+	"enemyShip.hpp"
+	"treasure.hpp"
+	"obstacle.hpp"
+
+1686031623 d:\Škola\programovanie\treasurehunter\playership.hpp
+	"ship.hpp"
+
+1686030866 d:\Škola\programovanie\treasurehunter\ship.hpp
+	<iostream>
+	<vector>
+	<ctime>
+	<fstream>
+
+1685573867 d:\Škola\programovanie\treasurehunter\enemyship.hpp
+	"ship.hpp"
+
+1686031729 d:\Škola\programovanie\treasurehunter\treasure.hpp
+
+1686031739 d:\Škola\programovanie\treasurehunter\obstacle.hpp
+
