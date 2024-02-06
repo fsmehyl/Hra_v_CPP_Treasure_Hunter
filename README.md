@@ -1,0 +1,1 @@
+Využíva OOP prístup
